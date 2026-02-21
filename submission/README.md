@@ -1,9 +1,2 @@
 # Submission Files
-
-Put your assignment screenshots PDF in this folder.
-
-Required filename:
-- `Part1-Screenshots.pdf`
-
-Expected path:
-- `submission/Part1-Screenshots.pdf`
+There did not seem to be a way for me to attach a pdf to the assignment submisssion. So I attached it below.
